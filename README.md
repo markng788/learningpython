@@ -1,8 +1,8 @@
 # 🐍 learningpython
 
-Welcome to my learning journey in Python programming!
+Welcome to my learning journey in Python programming (for data analytics)!
 
-This repository is a collection of Jupyter notebooks and exercises that document my hands-on exploration of Python. It includes practice scripts, mini-projects, and concept notes as I work through the fundamentals and practical applications of the language.
+This repository is a collection of Jupyter notebooks and exercises that document my hands-on exploration of Python. It includes practice scripts, mini-projects, and concept notes as I work through the fundamentals and practical applications of the language in data analysis.
 
 ---
 
